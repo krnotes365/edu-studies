@@ -16,7 +16,7 @@
 |  [BITSAT (Session 1)](http://bitsadmission.com)                       | 30-Apr-2023                | 04-May-2023                   | 04-Jun-2023                  | 
 |  [BITSAT (Session 2)](http://bitsadmission.com)                       | 30-Apr-2023                | 04-May-2023                   | 04-Jun-2023                  | 
 |  [COMED-K](https://www.comedk.org)                       | 30-Apr-2023                | 04-May-2023                   | 04-Jun-2023                  | 
-|  [IISER](http://www.iiseradmission.in)                       | 30-Apr-2023                | 04-May-2023                   | 04-Jun-2023                  | 
+|  [IISER](https://iiseradmission.in)                       | 30-Apr-2023                | 04-May-2023                   | 04-Jun-2023                  | 
 |  [Manipal (Session 1)](https://apply.manipal.edu)                       | 30-Apr-2023                | 04-May-2023                   | 04-Jun-2023                  | 
 |  [Manipal (Session 2)](https://apply.manipal.edu)                       | 30-Apr-2023                | 04-May-2023                   | 04-Jun-2023                  | 
 |  [EAMCET-TS](https://eamcet.tsche.ac.in)                       | 30-Apr-2023                | 04-May-2023                   | 04-Jun-2023                  | 
