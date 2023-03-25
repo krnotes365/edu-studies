@@ -1,2 +1,3 @@
-# edu-studies
-Education Studies
+# Education and Studies
+
+### Competitive Exams in 2022
